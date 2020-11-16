@@ -1,0 +1,14 @@
+table, th, td {
+    margin: 0 auto;
+    border: 1px solid black;
+    background-color: darkcyan;
+    color:thistle;
+  }
+
+  body{
+    background-image: url(Home.jpg);
+    background-attachment: fixed; 
+    /* background-size:100%; */
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
